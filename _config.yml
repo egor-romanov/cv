@@ -1,0 +1,10 @@
+# Site settings
+title: cv
+tag_text: cv
+description: Egor Romanov CV.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
