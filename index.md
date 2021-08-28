@@ -1,85 +1,170 @@
 ---
 layout: default
 ---
+SDET, Automation engineer, QA, Lead
 
-Tired of using LaTeX to make your CV look pretty? Can't remember how to set margins in your TeX file? Refusing to compromise and "just use Word"?
+## About me
 
-[markdown-cv](http://elipapa.github.io/markdown-cv/) is a simple template to list all your accomplishments in a readable Markdown file. It uses CSS to style your text into a stylish web page. It can also be printed as PDF.
+27 y.o. software developer in test and QA automation engineer from St Petersburg. Currently working with `Java/go+js` stack.
 
-### what does that mean?
+- I have experience in development of complex in-house systems for QA.
+- I built and managed a distributed tech department, designed production application from scratch, infra, ci/cd and agile processes in a startup.
+- As QA automation I worked on web, low level libs, desktop products and supported ci/cd for them.
 
-Write your CV like this...
+<a href="https://telegram.me/eromanov">
+  <i class="ti ti-brand-telegram"></i>
+  </a>
+<a href="https://www.linkedin.com/in/egor-romanov">
+  <i class="ti ti-brand-linkedin"></i>
+</a>
+<a href="mailto:egor.romanov@gmail.com">
+  <i class="ti ti-mail" style="color: red;"></i>
+</a>
 
-<img src="img/mdown.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+## Currently
 
-and use [jekyll](https://jekyllrb.com/) or [github pages](https://pages.github.com/) to make it look like this..
+Developing tools for QA @Tinkoff.
 
-<img src="img/output.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+### Specialized in
 
+Automation. Developing processes, teams, tools and (auto)tests to deploy reliable products fast and smoothly and to ensure quality through whole dev cycle.
 
+### Interested in
 
-## Usage
+Building a nice agile qa culture in teams, using the shift-left approach and reliable automation, ci/cd and devops.
 
-To start, simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+## Work-related Skills
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+- Developing test related systems of different complexity for CI, infrastructure, reporting, test management as a fullstack engineer.
+- Testing theory, all those thins about test generation/management/reporting.
+- Writing test-frameworks, mocks and autotests (unit/component/integration/e2e/ui). I have experience with complex win and simple electron desktop apps, different web apps, rest/grpc/gql/jsonrpc apis, raw tcp lib, postgre/redis/event brokers.
+- Engineering team management, distributed team management and building IT department, processes and infrastructure from scratch.
+- JS/TS, C#, Java and some Golang lately.
+- Postgre, Redis, a bit of RabbitMQ and Mongo, in-house msg brokers.
+- Docker, compose, some K8s, GitlabCI, git.
+- Of course some tools to search problems and setup monitoring like elastic, kibana, grafana, prometheus; local sniffers, dotpeek and so on.
 
-and then [edit directly in github](https://help.github.com/articles/editing-files-in-your-repository/) the `index.md` file
+## Working experience
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+### 1) Lead Automation Engineer @Tinkoff
 
-adding your skills, jobs and education.
+`3.2021-now`
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+- Developing tools for QA @Tinkoff.
 
-To transform your plain text CV into a beautiful looking HTML page and share it you then have two options:
+Infra dev mostly.
 
-### 1) Using Github Pages to publish it online
+### 2) CTO @Troove
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch)
-2. Create a new branch called `gh-pages` (which will then be a copy of master)
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+`4.2020-12.2020`
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+Startup, subject - promotion of loyalty programs in service sector,
+[read our story](https://vc.ru/tribuna/188450-kak-potratit-15-mln-rubley-neskolko-raz-peredelat-mvp-i-ne-oblazhatsya).
 
-### 2) Build it locally
-1. [install jekyll](https://jekyllrb.com/docs/installation/) on your computer. `gem install jekyll` will do for most users.
-2. Clone your fork on your computer
-3. Type `jekyll serve` and you'll be able to see your CV on your local host (the default address is http://localhost:4000).
-4. You can edit the `index.md` file and see changes live in your browser.
+![](https://leonardo.osnova.io/14bd496d-b5f3-52a0-ac0c-9a0f6a4c6302/-/preview/2100/-/format/webp/)
 
-## How do I print the PDF?
-Whether you used Github Pages or a local installation of Jekyll, to print a PDF just press *Print* in your browser. Print specific [CSS media queries](http://www.joshuawinn.com/css-print-media-query/) will take care of the styling.
+- Audit of the existing technical implementation;
+- Building new team (JS developers, QA);
+- Choosing a technology stack;
+- System design;
+- Software development team leading, interaction with other departments;
+- Selection, administration and management of  the instruments (k8s, gitlab, jira, confluence, testpad, yandex.cloud);
+- Implementation of agile processes;
+- Tasks prioritization and decomposition;
+- Building and support of the system infrastructure using gitlab ci, kubernetes, docker, mongodb, elastic hosted in yandex.cloud;
 
-## is this the only style available?
+Work results:
 
-The included CSS renders your CV in different styles:
+- mvp and major update of mobile app were released in App Store & Google Play;
+- mvp and a lot of incremental updates for backend microservices (16 for business logic and few for the infrastructure) and admin frontend webportal;
+- implementation of the CI/CD for admin web portal and backend microservices for test and production environments;
+- good team chemistry, use of agile methodologies, sprint retro and planning, stand ups, 1х1, 2-months planning on a regular basis.
 
-- `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita)
+### 3) Software Development Engineer in Test @Quadcode
 
-<img src="img/styles/kjhealy.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+`12.2019-3.2021`
 
-- `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned, authored by [David Whipp](https://davewhipp.github.io/markdown-cv/)
+Single QA and automation engineer in a message bus infrastructure team.
 
-<img src="img/styles/davewhipp.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+All our testing was integrated in CI/CD process with gitlab ci and docker.
 
-To change the default style, one needs to simply change `site` the variable in the
-`_config.yml` file.
+- Testing of the bus configuration web portal. Technologies used: node.js, react, postrge, redis, consul, grpc for SUT, Java and typescript for testing and mocking. Our biggest project (almost 3000 backend and few hundreds GUI autotests). I’ve started to move gui tests from Java+selenide to TS+playwright. Tests number grew up from 2,4 to 3,2 thousands.
+- Firstly manual and later I’ve started automation testing of desktop electron application (similar to bloom rpc but for internal protocol). Smoke test suite for the most important functionalities is integrated in CI for Mac and Linux versions. Stack: TS + spectron.
+- Developed a project for language independent testing of bus client libraries with a team. Golang and JS libraries are tested in CI. Stack: TS, golang, mocha, grpc, node.
+- Maintaining CI/CD in gitlab-ci and jenkins, test reporting in allure testops.
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
+### 4) Software Development Engineer in Test @ePayments
 
+`9.2019-12.2019`
 
+- I have written automated web ui and api tests.
+- Built an architecture and groundwork for new testing framework and set up mountebank service for stubbing in testing environments.
 
-### Author
+I’ve successfully passed my probationary period in 1.5 months instead of 3 months, but my interests did not match with qa head's vision for qa development.
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[GitHub](http://github.com/elipapa)/[website](https://elipapa.github.io)).
+Working with c# .net stack.
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+### 5) Software Development Engineer in Test @Netwrix
 
-### License
+`2.2019-9.2019`
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+- Contributing to test automation system based on vSphere, .net, asp.net rest, postgreSql and vue.js. I made a lot of updates in all parts of the system: core functionality, reporting, test runs logging, mail notifications, a lot of frontend improvements, custom serialization and so on.
+- Another part of my work was writing automated REST API tests with c# for the main product and a little bit of performance testing.
+- My last big task was a project for generating reports about time tracking and employees’ workload across all company’s projects and features using TFS data.
 
-<a href="https://github.com/elipapa/markdown-cv" class="github-corner"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+### 6) QC Automation @Netwrix
+
+`4.2018-2.2019`
+
+- I was working on development of test automation system based on vSphere, .net, asp.net rest, postgreSql and vue.js.
+- REST Api testing automation and writing small custom services.
+
+## Education
+
+`2012 - 2016`
+__St Petersburg Polytechnic University__
+
+- Informational security in telecommunications.
+
+`2008 - 2012`
+__St Petersburg President Physics and Mathematics Lyceum #239__
+
+## Publications
+
+<!-- A list is also available [online](https://egor-romanov.medium.com/) -->
+
+### Medium
+
+<a href="https://egor-romanov.medium.com/">
+  <i class="ti ti-brand-medium" style="color: black;"></i>
+</a>
+
+`2021`
+[Test design by Interface — Model — State](https://egor-romanov.medium.com/%D1%82%D0%B5%D1%81%D1%82-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BC-interface-model-state-7fa89c43934d)
+
+`2021`
+[My strategy of personal development](https://egor-romanov.medium.com/%D0%BA%D0%B0%D0%BA-%D1%8F-%D1%83%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%BB-%D1%81%D0%B2%D0%BE%D0%B9-%D0%B4%D0%BE%D1%85%D0%BE%D0%B4-%D0%B2-7-%D1%80%D0%B0%D0%B7-%D0%B7%D0%B0-2-5-%D0%B3%D0%BE%D0%B4%D0%B0-81561bf788a6)
+
+## Connect me
+
+<img src="https://avatars.githubusercontent.com/u/58992960?s=400&u=0a367857c290df05eede2230a6af6fceb9fe80d0&v=4" width="120" height="120"/>
+
+<div align="center">
+  <a href="https://telegram.me/eromanov">
+    <i class="ti ti-brand-telegram"></i>
+    </a>
+  <a href="https://github.com/egor-romanov">
+    <i class="ti ti-brand-github" style="color: black;"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/egor-romanov">
+    <i class="ti ti-brand-linkedin"></i>
+  </a>
+  <a href="https://egor-romanov.medium.com/">
+    <i class="ti ti-brand-medium" style="color: black;"></i>
+  </a>
+  <a href="mailto:egor.romanov@gmail.com">
+    <i class="ti ti-mail" style="color: red;"></i>
+  </a>
+</div>
+
+<a href="https://github.com/egor-romanov/cv" class="github-corner"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

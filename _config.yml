@@ -1,7 +1,7 @@
 # Site settings
-title: cv
-tag_text: cv
-description: Egor Romanov CV.
+title: ev cv
+tag_text: Egor Romanov
+description: Egor Romanov's CV.
 
 # Build settings
 markdown: kramdown
