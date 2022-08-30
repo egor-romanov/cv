@@ -5,11 +5,11 @@ SDET, Automation engineer, QA, Lead
 
 ## About me
 
-27 y.o. software developer in test and QA automation engineer. Currently working with `go+js` stack.
+28 y.o. Software developer in test and QA automation engineer. Currently working with `go+js` stack.
 
-- I have experience in development of complex in-house systems for QA.
-- I built and managed a distributed tech department, designed production application from scratch, infra, ci/cd and agile processes in a startup.
-- As QA automation I worked on web, low level libs, desktop products and supported ci/cd for them.
+- I have experience in the development of complex in-house systems for QA.
+- I built and managed a distributed tech department and designed production applications from scratch, infra, ci/cd, and agile processes in a startup.
+- As QA automation, I worked on web, low-level libs, and desktop products and supported ci/cd for them.
 
 <a href="https://telegram.me/eromanov" style="font-size: 0;">
   <i class="ti ti-brand-telegram" style="font-size: 1.5rem; margin: 0.5rem;"></i>
@@ -27,22 +27,22 @@ QA stuff @Supabase.
 
 ### Specialized in
 
-Automation. Developing processes, teams, tools and (auto)tests to deploy reliable products fast and smoothly and to ensure quality through whole dev cycle.
+Automation. Develop processes, teams, tools, and (auto)tests to deploy reliable products quickly and smoothly and ensure quality throughout the dev cycle.
 
 ### Interested in
 
-Building a nice agile qa culture in teams, using the shift-left approach and reliable automation, ci/cd and devops.
+Building a friendly agile QA culture in teams, using the shift-left approach and reliable automation, ci/cd, and DevOps.
 
 ## Work-related Skills
 
-- Developing test related systems of different complexity for CI, infrastructure, reporting, test management as a fullstack engineer.
+- Developing test-related systems of different complexity for CI, infrastructure, reporting, and test management as a full-stack engineer.
 - Testing theory, all those things about test generation/management/reporting.
-- Writing test-frameworks, mocks and autotests (unit/component/integration/e2e/ui). I have experience with complex win and simple electron desktop apps, different web apps, `rest/grpc/gql/jsonrpc` apis, raw tcp lib, `postgre/redis/event brokers`.
-- Engineering team management, distributed team management and building IT department, processes and infrastructure from scratch.
-- `JS/TS, C#, Java` and some `Golang` lately.
-- `Postgre, Redis`, a bit of `RabbitMQ` and `Mongo`, in-house msg brokers.
-- `Docker`, `compose`, some `K8s`, `GitlabCI`, `git`.
-- Of course some tools to search problems and setup monitoring like `elastic, kibana, grafana, prometheus`; local sniffers, dotpeek and so on.
+- Writing test-frameworks, mocks and autotests (unit/component/integration/e2e/UI). I have experience with complex win and simple electron desktop apps, different web apps, `rest/grpc/gql/jsonrpc` APIs, raw tcp lib, `Postgres/Redis/event brokers`.
+- Engineering team management, distributed team management, and building IT department, processes, and infrastructure from scratch.
+- `JS/TS, C#, Java` and `Golang` lately.
+- `Postgres, Redis`, a bit of `RabbitMQ` and `Mongo`, in-house msg brokers.
+- `Docker`, `compose`, `K8s`, `GitlabCI`, `git`.
+- Of course, some tools to search problems and set up monitoring like `elastic, kibana, grafana, prometheus`, local sniffers, dotpeek, etc.
 
 ## Working experience
 
@@ -50,9 +50,9 @@ Building a nice agile qa culture in teams, using the shift-left approach and rel
 
 `2.2022-now`
 
-QA stuff @Supabase. All sorts of things around QA and testing actually.
+QA stuff @Supabase. All sorts of things around QA and testing, actually.
 
-[And we are doing open-sorce btw :)](https://github.com/supabase)
+[And we are doing open-source btw :)](https://github.com/supabase)
 
 ### 2) Lead Automation Engineer @Tinkoff
 
@@ -60,36 +60,35 @@ QA stuff @Supabase. All sorts of things around QA and testing actually.
 
 Developing tools for QA @Tinkoff. Infra dev mostly.
 
-- I developed adapter service between native docker clients (i.e. `docker cli`, `docker-compose`, `test-containers`) and `k8s`. It allows to migrate testing infrastructure creation from docker daemon and docker containers to creation of native kubernetes resources like deployments and services. It provides the ability to control resources and increase security of CI infra. Stack: `go, goswagger, k8s`.
-- As a part of the team helped forming interview process and skill sets for test automation engineers.
-- Suggested and implemented MVP of service for coding interviews. Stack: `Yandex.Cloud, golang, vuejs+tailwind, Intellij Projector and IDEs, postgres`.
-- Participated in development of the bridge between `allure testops` and internal system for developers. Stack: `java+spring, kafka, postgres`.
+- I developed an adapter service between native docker clients (i.e., `docker cli`, `docker-compose`, `test-containers`) and `k8s`. It allows to migrate testing infrastructure creation from docker daemon and docker containers to the creation of native kubernetes resources like deployments and services. It provides the ability to control resources and increase the security of CI infra. Stack: `go, goswagger, k8s`.
+- As a part of the team, I helped form interview processes and skill sets for test automation engineers.
+- Suggested and implemented MVP of service for coding interviews. Stack: `Yandex.Cloud, golang, vuejs+tailwind, Intellij Projector and IDEs, Postgres`.
+- Participated in developing the bridge between `allure testops` and internal systems for developers. Stack: `java+spring, kafka, postgres`.
 
 ### 3) CTO @Troove
 
 `4.2020-12.2020`
 
-Startup, subject - promotion of loyalty programs in service sector,
-[read our story](https://vc.ru/tribuna/188450-kak-potratit-15-mln-rubley-neskolko-raz-peredelat-mvp-i-ne-oblazhatsya).
+Startup - promoting service sector loyalty programs.
+[Read our story.](https://vc.ru/tribuna/188450-kak-potratit-15-mln-rubley-neskolko-raz-peredelat-mvp-i-ne-oblazhatsya).
 
 ![](https://leonardo.osnova.io/14bd496d-b5f3-52a0-ac0c-9a0f6a4c6302/-/preview/2100/-/format/webp/)
 
 - Audit of the existing technical implementation;
-- Building new team (JS developers, QA);
-- Choosing a technology stack;
-- System design;
+- Building a new team (JS developers, QA);
+- `System design`;
 - Software development `team leading`, interaction with other departments;
-- Selection, administration and management of  the instruments (`k8s, gitlab, jira, confluence, testpad, yandex.cloud`);
+- Selection, administration, and management of the instruments (`k8s, GitLab, Jira, Confluence, testpad, yandex.cloud`);
 - Implementation of agile processes;
 - Tasks prioritization and decomposition;
-- Building and support of the system infrastructure using `gitlab ci, kubernetes, docker, mongodb, elastic` hosted in yandex.cloud;
+- Building and support of the system infrastructure using `GitLab CI, kubernetes, docker, mongodb, and elastic` hosted in `yandex.cloud`;
 
 Work results:
 
-- mvp and major update of mobile app were released in App Store & Google Play;
-- mvp and a lot of incremental updates for backend microservices (16 for business logic and few for the infrastructure) and admin frontend webportal;
+- MVP and major update of the mobile app were released in App Store & Google Play;
+- MVP and a lot of incremental updates for backend microservices (16 for business logic and few for the infrastructure) and admin frontend web portal;
 - implementation of the `CI/CD` for admin web portal and backend microservices for test and production environments;
-- good team chemistry, use of agile methodologies, `sprint retro and planning, stand ups, 1х1, 2-months planning` on a regular basis.
+- good team chemistry, agile methodologies, `sprint retro and planning, stand-ups, 1х1, and 2-month planning` regularly.
 
 ### 4) Software Development Engineer in Test @Quadcode
 
@@ -97,21 +96,21 @@ Work results:
 
 Single QA and automation engineer in a message bus infrastructure team.
 
-All our testing was integrated in `CI/CD` process with `gitlab ci` and `docker`.
+All our testing was integrated with `CI/CD` process using  `GitLab CI` and `docker`.
 
-- Testing of the bus configuration web portal. Technologies used: `node.js, react, postrge, redis, consul, grpc` for SUT, `Java` and `typescript` for testing and mocking. Our biggest project (almost 3000 backend and few hundreds GUI autotests). I’ve started to move gui tests from `Java+selenide` to `TS+playwright`. Tests number grew up from 2.4 to 3.2 thousands.
-- Firstly manual and later I’ve started automation testing of desktop electron application (similar to bloom rpc but for internal protocol). Smoke test suite for the most important functionalities is integrated in CI for Mac and Linux versions. Stack: `TS + spectron`.
-- Developed a project for language independent testing of bus client libraries with a team. `Golang` and `JS` libraries are tested in CI. Stack: `TS, golang, mocha, grpc, node`.
-- Maintaining `CI/CD` in `gitlab-ci` and `jenkins`, test reporting in `allure testops`.
+- Testing of the bus configuration web portal. The technologies used were `node.js, react, Postgres, Redis, consul, grpc` for SUT, `Java`, and `typescript` for testing and mocking. Our biggest project (almost 3000 backend and a few hundred GUI autotests). I've started to move GUI tests from `Java+selenide` to `TS+playwright`. Tests number grew up from 2.4 to 3.2 thousand.
+- Firstly manual, and later I started automation testing of desktop electron application (similar to Bloom RPC but for internal protocol). The smoke test suite for the most important functionalities is integrated with CI for Mac and Linux versions. Stack: `TS + spectron`.
+- Developed a project for language-independent testing of bus client libraries with a team. `Golang` and `JS` libraries are tested in CI. Stack: `TS, golang, mocha, grpc, node`.
+- Maintaining `CI/CD` in `GitLab CI` and `Jenkins`, test reporting in `allure testops`.
 
 ### 5) Software Development Engineer in Test @ePayments
 
 `9.2019-12.2019`
 
-- I have written automated web ui and api tests.
-- Built an architecture and groundwork for new testing framework and set up `mountebank` service for stubbing in testing environments.
+- I have written automated web UI and API tests.
+- Built an architecture and groundwork for a new testing framework and set up `mountebank` service for stubbing in testing environments.
 
-I’ve successfully passed my probationary period in 1.5 months instead of 3 months, but my interests did not match with qa head's vision for qa development.
+I successfully passed my probationary period in 1.5 months instead of 3 months, but my interests did not match the QA head's vision for QA development.
 
 Working with `c# .net` stack.
 
@@ -119,16 +118,16 @@ Working with `c# .net` stack.
 
 `2.2019-9.2019`
 
-- Contributing to test automation system based on `vSphere, .net, asp.net rest, postgreSql and vue.js`. I made a lot of updates in all parts of the system: core functionality, reporting, test runs logging, mail notifications, a lot of frontend improvements, custom serialization and so on.
-- Another part of my work was writing automated REST API tests with `c#` for the main product and a little bit of performance testing.
-- My last big task was a project for generating reports about time tracking and employees’ workload across all company’s projects and features using `TFS` data.
+- Contributing to test automation system based on `vSphere, .net, asp.net rest, PostgreSQL, and vue.js`. I made a lot of updates in all parts of the system: core functionality, reporting, test runs logging, mail notifications, a lot of frontend improvements, custom serialization, and so on.
+- Another part of my work was writing automated REST API tests with `c#` for the main product and a little performance testing.
+- My last big task was a project for generating reports about time tracking and employees' workload across all company's projects and features using `TFS` data.
 
 ### 7) QC Automation @Netwrix
 
 `4.2018-2.2019`
 
-- I was working on development of test automation system based on `vSphere, .net, asp.net rest, postgreSql and vue.js`.
-- `REST Api` testing automation and writing small custom services.
+- I was working on the development of a test automation system based on `vSphere, .net, asp.net rest, PostgreSQL, and vue.js`.
+- `REST API` testing automation and writing small custom services.
 
 ## Education
 
