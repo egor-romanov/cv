@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 SDET, Automation engineer, QA, Lead
 
 ## About me
@@ -42,7 +43,7 @@ Building a friendly agile QA culture in teams, using the shift-left approach and
 - `JS/TS, C#, Java` and `Golang` lately.
 - `Postgres, Redis`, a bit of `RabbitMQ` and `Mongo`, in-house msg brokers.
 - `Docker`, `compose`, `K8s`, `GitlabCI`, `git`.
-- Of course, some tools to search problems and set up monitoring like `elastic, kibana, grafana, prometheus`, local sniffers, dotpeek, etc.
+- Of course, some tools to search problems and set up monitoring like `elastic, kibana, grafana, prometheus`, local sniffers, `dotpeek`, etc.
 
 ## Working experience
 
@@ -70,7 +71,7 @@ Developing tools for QA @Tinkoff. Infra dev mostly.
 `4.2020-12.2020`
 
 Startup - promoting service sector loyalty programs.
-[Read our story.](https://vc.ru/tribuna/188450-kak-potratit-15-mln-rubley-neskolko-raz-peredelat-mvp-i-ne-oblazhatsya).
+[Read our story.](https://vc.ru/tribuna/188450-kak-potratit-15-mln-rubley-neskolko-raz-peredelat-mvp-i-ne-oblazhatsya)
 
 ![](https://leonardo.osnova.io/14bd496d-b5f3-52a0-ac0c-9a0f6a4c6302/-/preview/2100/-/format/webp/)
 
@@ -96,7 +97,7 @@ Work results:
 
 Single QA and automation engineer in a message bus infrastructure team.
 
-All our testing was integrated with `CI/CD` process using  `GitLab CI` and `docker`.
+All our testing was integrated with `CI/CD` process using `GitLab CI` and `docker`.
 
 - Testing of the bus configuration web portal. The technologies used were `node.js, react, Postgres, Redis, consul, grpc` for SUT, `Java`, and `typescript` for testing and mocking. Our biggest project (almost 3000 backend and a few hundred GUI autotests). I've started to move GUI tests from `Java+selenide` to `TS+playwright`. Tests number grew up from 2.4 to 3.2 thousand.
 - Firstly manual, and later I started automation testing of desktop electron application (similar to Bloom RPC but for internal protocol). The smoke test suite for the most important functionalities is integrated with CI for Mac and Linux versions. Stack: `TS + spectron`.
@@ -132,12 +133,12 @@ Working with `c# .net` stack.
 ## Education
 
 `2012 - 2016`
-__St Petersburg Polytechnic University__
+**St Petersburg Polytechnic University**
 
 - Informational security in telecommunications.
 
 `2008 - 2012`
-__St Petersburg President Physics and Mathematics Lyceum #239__
+**St Petersburg President Physics and Mathematics Lyceum #239**
 
 ## Publications
 
