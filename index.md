@@ -150,6 +150,9 @@ Working with `c# .net` stack.
   <i class="ti ti-brand-medium" style="color: black; font-size: 1.5rem;"></i>
 </a>
 
+`2023`
+[Building a Startup from Scratch: My Mistakes as CTO](https://medium.com/@egor-romanov/building-a-startup-from-scratch-my-mistakes-as-cto-b20b463e0058)
+
 `2021`
 [Test design by Interface — Model — State](https://egor-romanov.medium.com/%D1%82%D0%B5%D1%81%D1%82-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BC-interface-model-state-7fa89c43934d)
 
