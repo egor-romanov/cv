@@ -189,7 +189,7 @@ Working with `c# .net` stack.
 </div>
 
 <!-- Cal inline widget begin -->
-<div id="calcom" style="min-width:320px;height:630px;"></div>
+<div id="calcom"></div>
 <script>
 (function (C, A, L) {
   let p = function (a, ar) {
